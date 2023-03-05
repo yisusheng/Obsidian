@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "49dcf91d8052c853",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fcfb5bb1c7279f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d727aa81ec2280f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WPF学习之路/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ab2440883f1e693",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd49860cdf7f3af8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65b8188b58738de6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd790eda33b2e947",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c81d35d8d3443358",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ea0e7dfe05105d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d173fa4fe78ac06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0220d7e8bff89e8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WPF学习之路/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17d5fc66117f7291",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WPF学习之路/未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c35197158cb1318",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "64185586d6d460c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WPF学习之路/未命名.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2d727aa81ec2280f",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "2023-03-05.md",
+    "WPF学习之路/未命名.md",
+    "WPF学习之路/未命名 1.md",
+    "未命名",
+    "WPF学习之路"
+  ]
+}
